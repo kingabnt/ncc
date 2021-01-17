@@ -60,7 +60,7 @@
     "mariadb": "^2.0.1-beta",
     "memcached": "^2.2.2",
     "mkdirp": "^0.5.1",
-    "mongoose": "^5.3.12",
+    "mongoose": "^5.7.5",
     "mysql": "^2.16.0",
     "node-gyp": "^3.8.0",
     "node-native-loader": "^1.1.1",
